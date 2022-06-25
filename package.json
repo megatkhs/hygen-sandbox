@@ -1,0 +1,12 @@
+{
+  "name": "hygen-sandbox",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "new:fc": "hygen component new"
+  },
+  "author": "megatkhs",
+  "devDependencies": {
+    "hygen": "^6.2.7"
+  }
+}
